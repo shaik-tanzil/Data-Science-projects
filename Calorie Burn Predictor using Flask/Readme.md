@@ -56,13 +56,17 @@ Multiple regression techniques were cross-evaluated to minimize predictive error
 ```
 
 ## 📷 Screenshots
-<img width="1891" height="847" alt="Screenshot 2026-07-02 192853" src="https://github.com/user-attachments/assets/9eebf314-087a-48fd-bba4-27c5b6639754" />
+1.<br>
+
+</br><img width="1891" height="847" alt="Screenshot 2026-07-02 192853" src="https://github.com/user-attachments/assets/9eebf314-087a-48fd-bba4-27c5b6639754" />
 
 
 <br>
 
 </br>
-<img width="1907" height="856" alt="Screenshot 2026-07-02 192927" src="https://github.com/user-attachments/assets/10a4199f-53c1-401b-a828-073c062dbf14" />
+2.<br>
+
+</br><img width="1907" height="856" alt="Screenshot 2026-07-02 192927" src="https://github.com/user-attachments/assets/10a4199f-53c1-401b-a828-073c062dbf14" />
 
 
 
